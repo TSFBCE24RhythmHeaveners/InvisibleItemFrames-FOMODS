@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:glow_item_frame",
+  "result": {
+    "id": "minecraft:glow_item_frame",
+    "components": {
+      "minecraft:entity_data": {
+        "id": "minecraft:glow_item_frame",
+        "Invisible": true
+      }
+    }
+  }
+}

@@ -1,5 +1,6 @@
 {
   "type": "minecraft:stonecutting",
+  "group": "invisible_item_frame",
   "ingredient": "minecraft:item_frame",
   "result": {
     "id": "minecraft:item_frame",
